@@ -1,0 +1,1 @@
+# competihelper.nvim
