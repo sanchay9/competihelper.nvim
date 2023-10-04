@@ -1,1 +1,2 @@
-# competihelper.nvim
+# ch.nvim
+- competihelper
